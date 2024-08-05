@@ -1,0 +1,8 @@
+[package]
+name = "extract_files"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap="4.0.18"
+zip="0.5.13"
